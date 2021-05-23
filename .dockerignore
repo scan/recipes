@@ -1,0 +1,17 @@
+*.css.d.ts
+.circleci/
+.env
+.git/
+.gitattributes
+.github/
+.gitignore
+.next/
+.vscode/
+LICENSE
+README.md
+build/
+coverage/
+deploy/
+dist/
+node_modules/
+spec/
